@@ -1,4 +1,4 @@
-// File: /Users/macbook/Documents/StatsByListen/stats-by-listen/app/page.tsx
+// File: C:\Users\Kenan\Documents\listenby\frontend\stats-by-listen-master\app\page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

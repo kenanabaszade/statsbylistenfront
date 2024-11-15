@@ -58,7 +58,7 @@ const NavItemContent = React.memo(
           <ChevronRight
             className={cn('ml-auto h-4 w-4', isExpanded && 'rotate-90')}
           />
-        )}
+        )}  
       </div>
     );
   }

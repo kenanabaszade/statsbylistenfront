@@ -45,7 +45,7 @@ const data: Payment[] = [
   },
   {
     id: '3u1reuv4',
-    amount: 242,
+    amount: 22,
     status: 'success',
     email: 'Abe45@gmail.com',
   },
