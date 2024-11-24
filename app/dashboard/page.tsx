@@ -30,7 +30,7 @@ export default function DashboardLayout({
   return (
     <SessionProvider>
       <div className="flex">
-        <Sidebar />
+        {/* <Sidebar /> */}
         <main className="w-full flex-1 overflow-hidden">
           <Header />
           {children}

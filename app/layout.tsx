@@ -107,7 +107,7 @@ export default function RootLayout({ children }: { children: React.ReactNode; })
               </SearchProvider>
             </div>
  
-            {!isBlankPage && <Footer />}  
+            {/* {!isBlankPage && <Footer />}   */}
           </ThemeProviders>
         </body>
       </html>

@@ -51,7 +51,7 @@ export const navItems: NavItem[] = [
   },
   {
     title: 'Quartile/Decile',
-    href: '/dashboard/playground',
+    href: '/dashboard/quartiledecile',
     icon: 'kanban',
     label: 'Quartile/Decile'
   },

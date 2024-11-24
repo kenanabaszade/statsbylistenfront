@@ -1,6 +1,9 @@
 {
   "/api/auth/[auth0]/route": "app/api/auth/[auth0]/route.js",
-  "/page": "app/page.js",
   "/[...slug]/page": "app/[...slug]/page.js",
+  "/dashboard/listeners/page": "app/dashboard/listeners/page.js",
+  "/dashboard/dataexplorer/page": "app/dashboard/dataexplorer/page.js",
+  "/dashboard/quartiledecile/page": "app/dashboard/quartiledecile/page.js",
+  "/dashboard/customercohorts/page": "app/dashboard/customercohorts/page.js",
   "/dashboard/page": "app/dashboard/page.js"
 }
